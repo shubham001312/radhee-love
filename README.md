@@ -6,8 +6,6 @@
 
 👉 **[Click here to open](https://shubham001312.github.io/radhee-love/)**
 
-*(Replace `YOUR-USERNAME` with your GitHub username after deploying)*
-
 ---
 
 ## 🚀 How to Make it Live (GitHub Pages)
